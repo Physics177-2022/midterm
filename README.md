@@ -1,6 +1,6 @@
 # Midterm mini-project
 
-**Due Friday, May 15**
+**Due Friday, May 13**
 
 ### Overview
 
